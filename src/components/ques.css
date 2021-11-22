@@ -1,0 +1,34 @@
+
+.quespage
+{
+    border-radius: 100px;
+    padding: 20px;
+    margin: 20px;    
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(45deg,pink,pink,blue,yellow,red);
+    justify-content: space-evenly;
+    flex-direction: row;
+    justify-items: right;
+    background-color: white;
+    /* height: 800px; */
+
+}
+#ask{
+    display: none;
+}
+.textbtn{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 120px;
+    bottom: 35px;
+    width: 50%;
+}
+.questext{
+    padding: 20px;
+    margin: 25px;
+    border-radius: 50px;
+    border: 2px solid green;
+}

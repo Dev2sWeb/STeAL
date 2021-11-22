@@ -1,0 +1,18 @@
+.mainbody{
+    /* height: 100%;     */
+    margin: 20px 50px 0px 50px;
+    background-image: linear-gradient(45deg,pink,pink,blue,yellow,red,red);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;    
+    
+}
+.caro-img{
+    width: 800px;
+    height: 500px;
+}
+img{
+    padding: 20px;
+    margin: 20px;
+}
