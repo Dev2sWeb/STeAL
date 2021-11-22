@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/STeAL/static/css/main.f0116aa6.chunk.css",
+    "main.js": "/STeAL/static/js/main.1a871da8.chunk.js",
+    "main.js.map": "/STeAL/static/js/main.1a871da8.chunk.js.map",
+    "runtime-main.js": "/STeAL/static/js/runtime-main.02e13511.js",
+    "runtime-main.js.map": "/STeAL/static/js/runtime-main.02e13511.js.map",
+    "static/js/2.f9bf3799.chunk.js": "/STeAL/static/js/2.f9bf3799.chunk.js",
+    "static/js/2.f9bf3799.chunk.js.map": "/STeAL/static/js/2.f9bf3799.chunk.js.map",
+    "static/js/3.fabc086a.chunk.js": "/STeAL/static/js/3.fabc086a.chunk.js",
+    "static/js/3.fabc086a.chunk.js.map": "/STeAL/static/js/3.fabc086a.chunk.js.map",
+    "index.html": "/STeAL/index.html",
+    "static/css/main.f0116aa6.chunk.css.map": "/STeAL/static/css/main.f0116aa6.chunk.css.map",
+    "static/js/2.f9bf3799.chunk.js.LICENSE.txt": "/STeAL/static/js/2.f9bf3799.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e13511.js",
+    "static/js/2.f9bf3799.chunk.js",
+    "static/css/main.f0116aa6.chunk.css",
+    "static/js/main.1a871da8.chunk.js"
+  ]
+}
